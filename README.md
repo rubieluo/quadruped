@@ -6,4 +6,4 @@
 
 I like spot from boston dynamics so i made one with hobby components
 
-read the write-up to find my research and implementation
+download + read the write-up to find my research and implementation
